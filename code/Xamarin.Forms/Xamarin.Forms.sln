@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Android", "Xa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.iOS", "Xamarin.Forms\Xamarin.Forms.iOS\Xamarin.Forms.iOS.csproj", "{A6F53546-0A4B-4037-9A41-0F4BCF5ABA28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms", "Xamarin.Forms\Xamarin.Forms\Xamarin.Forms.csproj", "{1350BD15-5DF3-4D1A-A4E1-4B6EFFCBD39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.MyForms", "Xamarin.Forms\Xamarin.Forms\Xamarin.MyForms.csproj", "{1350BD15-5DF3-4D1A-A4E1-4B6EFFCBD39D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
